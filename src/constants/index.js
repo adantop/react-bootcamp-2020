@@ -1,7 +1,7 @@
 const API_PREFIX = '/api'; // 'https://youtube.googleapis.com/youtube/v3/search/';
-const INITIAL_QUERY = 'a'; // Wizeline
+const INITIAL_QUERY = 'Wizeline';
 const FAVORITES = false;
-const MOCK = true;
+const MOCK = false;
 
 const USERS = {
   wizeline: {
